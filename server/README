@@ -1,0 +1,27 @@
+This is your new Play application
+=================================
+
+This file will be packaged with your application when using `activator dist`.
+
+There are several demonstration files available in this template.
+
+Controllers
+===========
+
+- HomeController.java:
+
+  Shows how to handle simple HTTP requests.
+
+Components
+==========
+
+- Module.java:
+
+  Shows how to use Guice to bind all the components needed by your application.
+
+Filters
+=======
+
+- Filters.java:
+
+  Creates the list of HTTP filters used by your application.
